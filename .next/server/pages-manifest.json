@@ -2,7 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/products/[permalink]": "pages/products/[permalink].js",
-  "/cart": "pages/cart.js",
+  "/filtered-category": "pages/filtered-category.js",
   "/": "pages/index.js"
 }
