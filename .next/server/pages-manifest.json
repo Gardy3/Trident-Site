@@ -2,6 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/filtered-category": "pages/filtered-category.js",
-  "/": "pages/index.js"
+  "/": "pages/index.js",
+  "/categories/[slug]": "pages/categories/[slug].js",
+  "/products/[permalink]": "pages/products/[permalink].js"
 }
